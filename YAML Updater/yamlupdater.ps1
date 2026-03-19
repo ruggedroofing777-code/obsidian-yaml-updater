@@ -1,5 +1,6 @@
 <#
 Add-OrUpdate-MDMetadata.ps1
+v.1.0
 
 Purpose
 -------

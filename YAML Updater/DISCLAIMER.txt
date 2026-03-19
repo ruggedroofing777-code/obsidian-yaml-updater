@@ -1,6 +1,8 @@
 NOTE: 
 -This script has been debugged quite a bit... and I have successfully used it on my Obsidian Folder without any known problems...
 -I take no responsibility for messing up anyone's Obsidian notepad, BE SMART, backup your folder, and know your GIT Commands!
+-If you have any notes that have only a row or two in them, they will show errors, but the frontmatter will apply correctly,
+-I will fix this bug in v.1.1
 
 git Commit     -m"message"   Prior to use
 git restore .  to undo changes if things go wrong
