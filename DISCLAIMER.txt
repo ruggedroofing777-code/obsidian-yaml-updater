@@ -1,0 +1,15 @@
+NOTE: 
+-This script has been debugged quite a bit... and I have successfully used it on my Obsidian Folder without any known problems...
+-I take no responsibility for messing up anyone's Obsidian notepad, BE SMART, backup your folder, and know your GIT Commands!
+
+git Commit     -m"message"   Prior to use
+git restore .  to undo changes if things go wrong
+
+....... or better yet copy your folder, if you are unfamiliar with "git" and TEST on the copy!
+
+It works on my folder, but I have no idea what other plugins you may have that may interfere with the programming.
+
+Double Note: 
+-I am new in software development only in the last 6 months 
+
+See: ABOUTME.TXT to learn more....
